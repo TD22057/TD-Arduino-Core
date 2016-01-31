@@ -29,7 +29,7 @@ pins (A6/A7) and shift registers.
 
 - Sonar: Ultransonic sensor.
 
-- Timer; 
+- Timer: Repeating (num or infinite) periodic triggers.
 
 - Valve: 5 wire articulated valve control
 
