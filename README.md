@@ -27,7 +27,7 @@ pins (A6/A7) and shift registers.
 
 - MedianFilter: N sample running median filter.
 
-- Sonar: Ultransonic sensor.
+- Sonar: Ultrasonic sensor.
 
 - Timer: Repeating (num or infinite) periodic triggers.
 
